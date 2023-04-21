@@ -12,6 +12,9 @@ router.get('/', async (req, res) => {
         attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
       }
     });
+    if (!categoryData) {
+      res.status(404).json({message: 'No category found'});
+    }
     res.status(200).json(categoryData)
   } catch(err) {
     res.status(500).json(err);
