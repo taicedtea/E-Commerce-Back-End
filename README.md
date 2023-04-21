@@ -35,6 +35,6 @@ node server.js
 The app should have began, now you can open insomnia (or application of choice) and start!
 
 ## Video Walkthrough
-[<img src="./assets/img/appStart.png" width="50%">](https://drive.google.com/file/d/1v0DlPx7RZV-EET66_bfFh5SgUEsnHood/view?usp=sharing")
+
 
 ### Checkout more of my projects [here](https://github.com/taicedtea)!
