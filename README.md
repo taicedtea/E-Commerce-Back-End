@@ -18,6 +18,10 @@ npm install
 ``` 
 to install the necessary dependencies. 
 
+You must also have a ".env" file in the root directory, this is not included when you clone the repo. Create the ".env" file then follow the next steps. The file should look something like this:
+
+<img src="./assets/img/exampleENV.png"  width="60%" height="auto">
+
 ## Usage
 To use this app, after you have installed the necessary dependencies, you will need to set up the mysql database. While in the application's root directory run the following command:
 ```
