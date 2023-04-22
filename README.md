@@ -35,6 +35,6 @@ node server.js
 The app should have began, now you can open insomnia (or application of choice) and start!
 
 ## Video Walkthrough
-
+[<img src="./assets/img/ecommerceBackend_exInsomnia.png" width="50%">]("https://drive.google.com/file/d/1oipPsmbi7F7mJjC0VuPJ7z5hdhiYmA8z/view?usp=share_link")
 
 ### Checkout more of my projects [here](https://github.com/taicedtea)!
