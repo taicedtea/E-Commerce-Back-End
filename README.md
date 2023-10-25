@@ -7,7 +7,7 @@
 5. [Video Walkthrough](#video-walkthrough)
 
 ## Description
-This is an application for companies to track products in stock, including specifications and quantity in stock
+This is an application for companies to track products in stock, including specifications and quantity in stock. Created using Express.js and mySQL.
 
 ## Installation
 First, to use this app you must have mysql downloaded onto your machine. If you don't already have it installed, you can follow these instructions on the official mysql website: [mysql website](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/). You also must have some sort of API explorer installed such as Insomnia.
